@@ -2,9 +2,8 @@
 
 # 🌐 Website Traffic Analysis Report
 
-Project_Scope: |
-  This analysis investigates daily website traffic patterns, focusing on total page loads, unique visits, daily trends, and growth over time. The goal is to uncover visitor engagement trends that help optimize site performance and improve user retention.
-
+## Project Scope: 
+This analysis investigates daily website traffic patterns, with a focus on total page loads, unique visits, daily trends, and growth over time. The goal is to uncover visitor engagement trends that help optimize site performance and improve user retention.
 
 ---
 
